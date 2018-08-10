@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=check-aur
+Name=check-aur
+Comment=Check if AUR support is installed
+Type=Application
+Icon=applications-system
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
