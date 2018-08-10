@@ -1,0 +1,12 @@
+T 1533461887 19*	Now talking on 22#manjaro
+T 1533461887 22*	Topic for 22#manjaro is: Welcome to Manjaro! | Use paste site for long output, e.g. bpaste.net | Check forum.manjaro.org and wiki.manjaro.org | Channel logs: http://echelog.com/?manjaro | NEWS: Kernel 4.9.106 broken, update to 4.9.107
+T 1533461887 22*	Topic for 22#manjaro set by 26jonathon (24Mon Jun 11 16:56:27 2018)
+T 1533461887 22*	Channel 22#manjaro url: 24https://www.manjaro.org/
+T 1533491249 19*	Now talking on 22#manjaro
+T 1533491249 22*	Topic for 22#manjaro is: Welcome to Manjaro! | Use paste site for long output, e.g. bpaste.net | Check forum.manjaro.org and wiki.manjaro.org | Channel logs: http://echelog.com/?manjaro | NEWS: Kernel 4.9.106 broken, update to 4.9.107
+T 1533491249 22*	Topic for 22#manjaro set by 26jonathon (24Mon Jun 11 16:56:27 2018)
+T 1533491249 22*	Channel 22#manjaro url: 24https://www.manjaro.org/
+T 1533657121 19*	Now talking on 22#manjaro
+T 1533657121 22*	Topic for 22#manjaro is: Welcome to Manjaro! | Use paste site for long output, e.g. bpaste.net | Check forum.manjaro.org and wiki.manjaro.org | Channel logs: http://echelog.com/?manjaro | NEWS: Kernel 4.9.106 broken, update to 4.9.107
+T 1533657121 22*	Topic for 22#manjaro set by 26jonathon (24Mon Jun 11 16:56:27 2018)
+T 1533657121 22*	Channel 22#manjaro url: 24https://www.manjaro.org/

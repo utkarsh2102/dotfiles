@@ -1,0 +1,266 @@
+**** BEGIN LOGGING AT Thu Jul 26 13:38:08 2018
+
+Jul 26 13:56:48 *	Disconnected (Connection timed out)
+Jul 26 13:56:58 *	Looking up chat.freenode.net
+Jul 26 13:56:58 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6697)
+Jul 26 13:56:58 *	Connection failed (Network is unreachable)
+Jul 26 13:57:08 Cycling to next server in freenode...
+Jul 26 13:57:08 *	Disconnected ()
+Jul 26 13:57:08 *	Looking up chat.freenode.net
+Jul 26 13:57:08 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 13:57:08 *	Connection failed (Network is unreachable)
+Jul 26 13:57:18 Cycling to next server in freenode...
+Jul 26 13:57:18 *	Disconnected ()
+Jul 26 13:57:18 *	Looking up irc.freenode.net
+Jul 26 13:57:18 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6667)
+Jul 26 13:57:18 *	Connection failed (Network is unreachable)
+Jul 26 13:57:28 Cycling to next server in freenode...
+Jul 26 13:57:28 *	Disconnected ()
+Jul 26 13:57:28 *	Looking up chat.freenode.net
+Jul 26 13:57:28 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6697)
+Jul 26 13:57:28 *	Connection failed (Network is unreachable)
+Jul 26 13:57:38 Cycling to next server in freenode...
+Jul 26 13:57:38 *	Disconnected ()
+Jul 26 13:57:38 *	Looking up chat.freenode.net
+Jul 26 13:57:48 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:57:58 Cycling to next server in freenode...
+Jul 26 13:57:58 *	Disconnected ()
+Jul 26 13:57:58 *	Looking up irc.freenode.net
+Jul 26 13:57:58 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:58:08 Cycling to next server in freenode...
+Jul 26 13:58:08 *	Disconnected ()
+Jul 26 13:58:08 *	Looking up chat.freenode.net
+Jul 26 13:58:08 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:58:18 Cycling to next server in freenode...
+Jul 26 13:58:18 *	Disconnected ()
+Jul 26 13:58:18 *	Looking up chat.freenode.net
+Jul 26 13:58:18 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:58:28 Cycling to next server in freenode...
+Jul 26 13:58:28 *	Disconnected ()
+Jul 26 13:58:28 *	Looking up irc.freenode.net
+Jul 26 13:58:28 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:58:38 Cycling to next server in freenode...
+Jul 26 13:58:38 *	Disconnected ()
+Jul 26 13:58:38 *	Looking up chat.freenode.net
+Jul 26 13:58:38 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:58:48 Cycling to next server in freenode...
+Jul 26 13:58:48 *	Disconnected ()
+Jul 26 13:58:48 *	Looking up chat.freenode.net
+Jul 26 13:58:48 *	Unknown host. Maybe you misspelled it?
+Jul 26 13:58:58 Cycling to next server in freenode...
+Jul 26 13:58:58 *	Disconnected ()
+Jul 26 13:58:58 *	Looking up irc.freenode.net
+Jul 26 13:58:58 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 13:58:58 *	Connection failed (Network is unreachable)
+Jul 26 13:59:08 Cycling to next server in freenode...
+Jul 26 13:59:08 *	Disconnected ()
+Jul 26 13:59:08 *	Looking up chat.freenode.net
+Jul 26 13:59:08 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Jul 26 13:59:08 *	Connection failed (Network is unreachable)
+Jul 26 13:59:18 Cycling to next server in freenode...
+Jul 26 13:59:18 *	Disconnected ()
+Jul 26 13:59:18 *	Looking up chat.freenode.net
+Jul 26 13:59:18 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6667)
+Jul 26 13:59:18 *	Connection failed (Network is unreachable)
+Jul 26 13:59:28 Cycling to next server in freenode...
+Jul 26 13:59:28 *	Disconnected ()
+Jul 26 13:59:28 *	Looking up irc.freenode.net
+Jul 26 13:59:28 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 13:59:36 *	Connection failed (Network is unreachable)
+Jul 26 13:59:46 Cycling to next server in freenode...
+Jul 26 13:59:46 *	Disconnected ()
+Jul 26 13:59:46 *	Looking up chat.freenode.net
+Jul 26 13:59:46 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Jul 26 13:59:55 *	Connection failed (Network is unreachable)
+Jul 26 14:00:05 Cycling to next server in freenode...
+Jul 26 14:00:05 *	Disconnected ()
+Jul 26 14:00:05 *	Looking up chat.freenode.net
+Jul 26 14:00:05 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6667)
+Jul 26 14:00:08 *	Connection failed (Network is unreachable)
+Jul 26 14:00:18 Cycling to next server in freenode...
+Jul 26 14:00:18 *	Disconnected ()
+Jul 26 14:00:18 *	Looking up irc.freenode.net
+Jul 26 14:00:18 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:00:18 *	Connection failed (Network is unreachable)
+Jul 26 14:00:28 Cycling to next server in freenode...
+Jul 26 14:00:28 *	Disconnected ()
+Jul 26 14:00:28 *	Looking up chat.freenode.net
+Jul 26 14:00:28 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Jul 26 14:00:28 *	Connection failed (Network is unreachable)
+Jul 26 14:00:38 Cycling to next server in freenode...
+Jul 26 14:00:38 *	Disconnected ()
+Jul 26 14:00:38 *	Looking up chat.freenode.net
+Jul 26 14:00:38 *	Unknown host. Maybe you misspelled it?
+Jul 26 14:00:48 Cycling to next server in freenode...
+Jul 26 14:00:48 *	Disconnected ()
+Jul 26 14:00:48 *	Looking up irc.freenode.net
+Jul 26 14:00:48 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6667)
+Jul 26 14:00:48 *	Connection failed (Network is unreachable)
+Jul 26 14:00:58 Cycling to next server in freenode...
+Jul 26 14:00:58 *	Disconnected ()
+Jul 26 14:00:58 *	Looking up chat.freenode.net
+Jul 26 14:00:58 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6697)
+Jul 26 14:01:20 *	Connection failed (Network is unreachable)
+Jul 26 14:01:30 Cycling to next server in freenode...
+Jul 26 14:01:30 *	Disconnected ()
+Jul 26 14:01:30 *	Looking up chat.freenode.net
+Jul 26 14:01:30 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6667)
+Jul 26 14:01:38 *	Connection failed (Network is unreachable)
+Jul 26 14:01:48 Cycling to next server in freenode...
+Jul 26 14:01:48 *	Disconnected ()
+Jul 26 14:01:48 *	Looking up irc.freenode.net
+Jul 26 14:01:48 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:01:48 *	Connection failed (Network is unreachable)
+Jul 26 14:01:58 Cycling to next server in freenode...
+Jul 26 14:01:58 *	Disconnected ()
+Jul 26 14:01:58 *	Looking up chat.freenode.net
+Jul 26 14:01:58 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6697)
+Jul 26 14:01:58 *	Connection failed (Network is unreachable)
+Jul 26 14:02:08 Cycling to next server in freenode...
+Jul 26 14:02:08 *	Disconnected ()
+Jul 26 14:02:08 *	Looking up chat.freenode.net
+Jul 26 14:02:08 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6667)
+Jul 26 14:02:08 *	Connection failed (Network is unreachable)
+Jul 26 14:02:18 Cycling to next server in freenode...
+Jul 26 14:02:18 *	Disconnected ()
+Jul 26 14:02:18 *	Looking up irc.freenode.net
+Jul 26 14:02:18 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:02:59 *	Connection failed (No route to host)
+Jul 26 14:03:09 Cycling to next server in freenode...
+Jul 26 14:03:09 *	Disconnected ()
+Jul 26 14:03:09 *	Looking up chat.freenode.net
+Jul 26 14:03:09 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6697)
+Jul 26 14:03:09 *	Connection failed (Network is unreachable)
+Jul 26 14:03:19 Cycling to next server in freenode...
+Jul 26 14:03:19 *	Disconnected ()
+Jul 26 14:03:19 *	Looking up chat.freenode.net
+Jul 26 14:03:19 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6667)
+Jul 26 14:03:19 *	Connection failed (Network is unreachable)
+Jul 26 14:03:29 Cycling to next server in freenode...
+Jul 26 14:03:29 *	Disconnected ()
+Jul 26 14:03:29 *	Looking up irc.freenode.net
+Jul 26 14:03:29 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:03:50 *	Connection failed (Network is unreachable)
+Jul 26 14:04:00 Cycling to next server in freenode...
+Jul 26 14:04:00 *	Disconnected ()
+Jul 26 14:04:00 *	Looking up chat.freenode.net
+Jul 26 14:04:00 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:04:09 *	Connection failed (Network is unreachable)
+Jul 26 14:04:19 Cycling to next server in freenode...
+Jul 26 14:04:19 *	Disconnected ()
+Jul 26 14:04:19 *	Looking up chat.freenode.net
+Jul 26 14:04:19 *	Connecting to chat.freenode.net (2a02:2f0d:bff0:1:81:18:73:123:6667)
+Jul 26 14:04:19 *	Connection failed (Network is unreachable)
+Jul 26 14:04:29 Cycling to next server in freenode...
+Jul 26 14:04:29 *	Disconnected ()
+Jul 26 14:04:29 *	Looking up irc.freenode.net
+Jul 26 14:04:29 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:04:29 *	Connection failed (Network is unreachable)
+Jul 26 14:04:39 Cycling to next server in freenode...
+Jul 26 14:04:39 *	Disconnected ()
+Jul 26 14:04:39 *	Looking up chat.freenode.net
+Jul 26 14:04:39 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:04:55 *	Connection failed (Network is unreachable)
+Jul 26 14:05:05 Cycling to next server in freenode...
+Jul 26 14:05:05 *	Disconnected ()
+Jul 26 14:05:05 *	Looking up chat.freenode.net
+Jul 26 14:05:05 *	Connecting to chat.freenode.net (2a02:2f0d:bff0:1:81:18:73:123:6667)
+Jul 26 14:05:13 *	Connection failed (Network is unreachable)
+Jul 26 14:05:23 Cycling to next server in freenode...
+Jul 26 14:05:23 *	Disconnected ()
+Jul 26 14:05:23 *	Looking up irc.freenode.net
+Jul 26 14:05:23 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:05:23 *	Connection failed (Network is unreachable)
+Jul 26 14:05:33 Cycling to next server in freenode...
+Jul 26 14:05:33 *	Disconnected ()
+Jul 26 14:05:33 *	Looking up chat.freenode.net
+Jul 26 14:05:33 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:05:33 *	Connection failed (Network is unreachable)
+Jul 26 14:05:43 Cycling to next server in freenode...
+Jul 26 14:05:43 *	Disconnected ()
+Jul 26 14:05:43 *	Looking up chat.freenode.net
+Jul 26 14:05:43 *	Connecting to chat.freenode.net (2a02:2f0d:bff0:1:81:18:73:123:6667)
+Jul 26 14:05:43 *	Connection failed (Network is unreachable)
+Jul 26 14:05:53 Cycling to next server in freenode...
+Jul 26 14:05:53 *	Disconnected ()
+Jul 26 14:05:53 *	Looking up irc.freenode.net
+Jul 26 14:05:53 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:06:17 *	Connection failed (Network is unreachable)
+Jul 26 14:06:27 Cycling to next server in freenode...
+Jul 26 14:06:27 *	Disconnected ()
+Jul 26 14:06:27 *	Looking up chat.freenode.net
+Jul 26 14:06:28 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:06:36 *	Connection failed (Network is unreachable)
+Jul 26 14:06:46 Cycling to next server in freenode...
+Jul 26 14:06:46 *	Disconnected ()
+Jul 26 14:06:46 *	Looking up chat.freenode.net
+Jul 26 14:06:46 *	Connecting to chat.freenode.net (2a02:2f0d:bff0:1:81:18:73:123:6667)
+Jul 26 14:06:46 *	Connection failed (Network is unreachable)
+Jul 26 14:06:56 Cycling to next server in freenode...
+Jul 26 14:06:56 *	Disconnected ()
+Jul 26 14:06:56 *	Looking up irc.freenode.net
+Jul 26 14:06:56 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:06:56 *	Connection failed (Network is unreachable)
+Jul 26 14:07:06 Cycling to next server in freenode...
+Jul 26 14:07:06 *	Disconnected ()
+Jul 26 14:07:06 *	Looking up chat.freenode.net
+Jul 26 14:07:06 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:07:06 *	Connection failed (Network is unreachable)
+Jul 26 14:07:16 Cycling to next server in freenode...
+Jul 26 14:07:16 *	Disconnected ()
+Jul 26 14:07:16 *	Looking up chat.freenode.net
+Jul 26 14:07:16 *	Connecting to chat.freenode.net (2a02:2f0d:bff0:1:81:18:73:123:6667)
+Jul 26 14:07:16 *	Connection failed (Network is unreachable)
+Jul 26 14:07:26 Cycling to next server in freenode...
+Jul 26 14:07:26 *	Disconnected ()
+Jul 26 14:07:26 *	Looking up irc.freenode.net
+Jul 26 14:07:26 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:07:26 *	Connection failed (Network is unreachable)
+Jul 26 14:07:36 Cycling to next server in freenode...
+Jul 26 14:07:36 *	Disconnected ()
+Jul 26 14:07:36 *	Looking up chat.freenode.net
+Jul 26 14:07:36 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:07:36 *	Connection failed (Network is unreachable)
+Jul 26 14:07:46 Cycling to next server in freenode...
+Jul 26 14:07:46 *	Disconnected ()
+Jul 26 14:07:46 *	Looking up chat.freenode.net
+Jul 26 14:07:46 *	Connecting to chat.freenode.net (2a02:2f0d:bff0:1:81:18:73:123:6667)
+Jul 26 14:07:46 *	Connection failed (Network is unreachable)
+Jul 26 14:07:56 Cycling to next server in freenode...
+Jul 26 14:07:56 *	Disconnected ()
+Jul 26 14:07:56 *	Looking up irc.freenode.net
+Jul 26 14:07:56 *	Connecting to chat.freenode.net (2001:1bc0:c1::6667:6667)
+Jul 26 14:07:56 *	Connection failed (Network is unreachable)
+Jul 26 14:08:06 Cycling to next server in freenode...
+Jul 26 14:08:06 *	Disconnected ()
+Jul 26 14:08:06 *	Looking up chat.freenode.net
+Jul 26 14:08:06 *	Connecting to chat.freenode.net (2a00:1a28:1100:11::42:6697)
+Jul 26 14:17:09 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jul 26 14:17:09 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jul 26 14:17:09 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jul 26 14:17:09 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jul 26 14:17:09 *	* Subject: /CN=verne.freenode.net
+Jul 26 14:17:09 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jul 26 14:17:09 *	* Certification info:
+Jul 26 14:17:09 *	  Subject:
+Jul 26 14:17:09 *	    CN=verne.freenode.net
+Jul 26 14:17:09 *	  Issuer:
+Jul 26 14:17:09 *	    C=US
+Jul 26 14:17:09 *	    O=Let's Encrypt
+Jul 26 14:17:09 *	    CN=Let's Encrypt Authority X3
+Jul 26 14:17:09 *	  Public key algorithm: rsaEncryption (4096 bits)
+Jul 26 14:17:09 *	  Sign algorithm sha256WithRSAEncryption
+Jul 26 14:17:09 *	  Valid since Jun 11 05:04:21 2018 GM to Sep  9 05:04:21 2018 GM
+Jul 26 14:17:09 *	* Cipher info:
+Jul 26 14:17:09 *	  Version: TLSv1.2, cipher DHE-RSA-AES256-GCM-SHA384 (256 bits)
+Jul 26 14:17:09 *	Connected. Now logging in.
+Jul 26 14:17:09 *	*** Looking up your hostname...
+Jul 26 14:17:09 *	*** Checking Ident
+Jul 26 14:17:09 *	*** Couldn't look up your hostname
+Jul 26 15:11:11 Perl interface unloaded
+Jul 26 15:11:11 FiSHLiM plugin unloaded
+Jul 26 15:11:11 Python interface unloaded
+Jul 26 15:11:11 Sysinfo plugin unloaded
+Jul 26 15:11:11 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Jul 26 15:11:11 2018
+

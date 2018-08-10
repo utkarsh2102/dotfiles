@@ -1,0 +1,19 @@
+T 1532587939 19*	Now talking on 22#manjaro-talk
+T 1532587940 22*	Topic for 22#manjaro-talk is: Manjaro Talk. Use #manjaro channel for help. You will need to register your nickname with freenode to access #manjaro. https://freenode.net/kb/answer/registration
+T 1532587940 22*	Topic for 22#manjaro-talk set by 26AdityaPatil!~AdityaPat@fqdn.tech (24Sun Jun 24 10:54:47 2018)
+T 1532588553 20*	Disconnected (20Connection reset by peer)
+T 1532588578 19*	Now talking on 22#manjaro-talk
+T 1532588578 22*	Topic for 22#manjaro-talk is: Manjaro Talk. Use #manjaro channel for help. You will need to register your nickname with freenode to access #manjaro. https://freenode.net/kb/answer/registration
+T 1532588578 22*	Topic for 22#manjaro-talk set by 26AdityaPatil!~AdityaPat@fqdn.tech (24Sun Jun 24 10:54:47 2018)
+T 1532588653 24*	utkarsh2102 has quit (Ping timeout: 260 seconds)
+T 1532592353 19*	Now talking on 22#manjaro-talk
+T 1532592353 22*	Topic for 22#manjaro-talk is: Manjaro Talk. Use #manjaro channel for help. You will need to register your nickname with freenode to access #manjaro. https://freenode.net/kb/answer/registration
+T 1532592353 22*	Topic for 22#manjaro-talk set by 26AdityaPatil!~AdityaPat@fqdn.tech (24Sun Jun 24 10:54:45 2018)
+T 1532598093 19*	Now talking on 22#manjaro-talk
+T 1532598093 22*	Topic for 22#manjaro-talk is: Manjaro Talk. Use #manjaro channel for help. You will need to register your nickname with freenode to access #manjaro. https://freenode.net/kb/answer/registration
+T 1532598093 22*	Topic for 22#manjaro-talk set by 26AdityaPatil!~AdityaPat@fqdn.tech (24Sun Jun 24 10:54:45 2018)
+T 1532598097 19*	Now talking on 22#manjaro-talk
+T 1532598097 22*	Topic for 22#manjaro-talk is: Manjaro Talk. Use #manjaro channel for help. You will need to register your nickname with freenode to access #manjaro. https://freenode.net/kb/answer/registration
+T 1532598097 22*	Topic for 22#manjaro-talk set by 26AdityaPatil!~AdityaPat@fqdn.tech (24Sun Jun 24 10:54:45 2018)
+T 1532598097 23*	utkarsh1207 (~utkarsh21@103.203.137.323) has joined
+T 1532598104 24*	utkarsh1207 has quit (Client Quit)
