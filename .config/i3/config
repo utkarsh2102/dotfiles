@@ -147,16 +147,16 @@ mode "resize" {
         # Pressing right will grow the window’s width.
         # Pressing up will shrink the window’s height.
         # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 10 px or 10 ppt
-        bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
+        bindsym j resize shrink width 5 px or 5 ppt
+        bindsym k resize grow height 5 px or 5 ppt
+        bindsym l resize shrink height 5 px or 5 ppt
+        bindsym semicolon resize grow width 5 px or 5 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
+        bindsym Left resize shrink width 5 px or 5 ppt
+        bindsym Down resize grow height 5 px or 5 ppt
+        bindsym Up resize shrink height 5 px or 5 ppt
+        bindsym Right resize grow width 5 px or 5 ppt
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
@@ -168,10 +168,10 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        status_command i3blocks
-        position top
-}
+#bar {
+#        status_command i3blocks
+#        position bottom
+#}
 
 
 # Let's get tweaking ;)
@@ -180,10 +180,10 @@ bar {
 #bindsym $mod+print exec "flameshot gui"
 
 # Take a screenshot of a screen region and copy it to a clipboard
-bindsym --release Shift+Print exec "scregcp -s ~/Pictures/Screenshots/"
+#bindsym --release Shift+Print exec "scregcp -s ~/Pictures/Screenshots/"
 
-# Take a screenshot of a whole window and copy it to a clipboard
-bindsym --release Print exec "scregcp ~/Pictures/Screenshots/"
+# Take a screenshot
+bindsym Print exec flameshot gui
 
 # Saving the background image
 exec --no-startup-id feh --bg-scale ~/Desktop/dotfiles/pictures/ArchaBackground.png
@@ -192,14 +192,28 @@ exec --no-startup-id feh --bg-scale ~/Desktop/dotfiles/pictures/ArchaBackground.
 # Start Firefox
 bindsym $mod+shift+f exec firefox
 
-# Start Telegram 
+# Start Telegram
 bindsym $mod+shift+t exec telegram-desktop
+
+# Start Gitter
+bindsym $mod+shift+g exec gitter
 
 # Start conky on boot-up
 exec --no-startup-id conky -c /home/utkarsh2102/.conky/Conky\ Seamod/conky_seamod
 
 # Start atom
-bindsym $mod+shift+a exec atom
+#bindsym $mod+shift+a exec atom
 
 # Compositing manager
 exec --no-startup-id compton
+
+# Execute Network Manager
+exec --no-startup-id nm-applet
+ 
+# Start VS Code
+bindsym $mod+shift+a exec code
+
+# Sreen brightness controls
+#bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
+#bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
+exec --no-startup-id /home/utkarsh2102/.config/polybar/launch.sh
