@@ -1,0 +1,13 @@
+# For unstable \o/
+deb http://deb.debian.org/debian/ unstable main contrib 
+deb-src http://deb.debian.org/debian/ unstable main contrib 
+# deb http://ftp.harukasan.org/debian/ unstable main contrib 
+# deb-src http://ftp.harukasan.org/debian/ unstable main contrib 
+
+# Backport stuff for fasttrack and bleh :|
+deb http://deb.debian.org/debian buster-backports main contrib 
+#deb http://fasttrack.debian.net/debian/ buster-fasttrack main contrib 
+
+# Experimental things for testing weird stuff :|
+deb http://deb.debian.org/debian experimental main contrib 
+deb-src http://deb.debian.org/debian/ experimental main contrib 

@@ -1,0 +1,1 @@
+acquire::http::proxy "http://localhost:3142/debian";

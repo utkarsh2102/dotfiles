@@ -1,0 +1,10 @@
+# deb [trusted=yes] http://127.0.0.1/repos/apt/debian unstable main contrib
+# deb-src [trusted=yes] http://127.0.0.1/repos/apt/debian unstable main contrib
+
+# deb http://192.168.0.3/repo unstable main
+# deb-src http://192.168.0.3/repo unstable main
+
+
+
+# deb http://127.0.0.1/repo unstable main
+# deb-src http://127.0.0.1/repo unstable main

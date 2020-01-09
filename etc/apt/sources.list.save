@@ -1,0 +1,12 @@
+# deb http://deb.debian.org/debian/ unstable main contrib non-free
+
+deb http://deb.debian.org/debian/ unstable main contrib non-free
+deb-src http://deb.debian.org/debian/ unstable main contrib non-free
+
+# deb http://deb.debian.org/debian/ experimental main contrib non-free
+# deb-src http://deb.debian.org/debian/ experimental main contrib non-free
+# deb http://deb.debian.org/debian/ unstable main contrib non-free
+
+# deb http://ftp.harukasan.org/debian/ unstable main contrib non-free
+# deb-src http://ftp.harukasan.org/debian/ unstable main contrib non-free
+# deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu xenial main
