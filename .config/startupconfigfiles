@@ -1,0 +1,42 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+!/home/utkarsh2102/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/utkarsh2102/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+!/home/utkarsh2102/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/utkarsh2102/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+!/home/utkarsh2102/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/utkarsh2102/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+!/home/utkarsh2102/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/utkarsh2102/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/utkarsh2102/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/utkarsh2102/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+!/home/utkarsh2102/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/utkarsh2102/.local/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
