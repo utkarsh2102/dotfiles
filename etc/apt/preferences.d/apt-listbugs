@@ -1,6 +1,0 @@
-Explanation: Pinned by apt-listbugs at 2019-10-25 04:52:39 +0530
-Explanation:   #942617: FTBFS on i386
-Package: kexec-tools
-Pin: version 1:2.0.18-1+b1
-Pin-Priority: 30000
-
