@@ -1,0 +1,2 @@
+set smtp=smtp://smtp.ust.hk
+set from="utkarsh@debian.org"
