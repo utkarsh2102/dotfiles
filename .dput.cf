@@ -1,0 +1,20 @@
+[fasttrack]
+fqdn                    = fasttrack.debian.net
+incoming                = /pub/UploadQueue/
+login                   = anonymous
+allow_dcut              = 1
+method                  = ftp
+# Please, upload your package to the proper archive
+# http://fasttrack.debian.net
+allowed_distributions   = (?!UNRELEASED|.*-security)
+
+[fasttrack-ssh]
+login   = root
+# login = another_username
+fqdn    = fasttrack.debian.net
+method  = sftp
+incoming        = /srv/dak/queue/unchecked/
+allow_dcut      = 1
+# Please, upload your package to the proper archive
+# http://fasttrack.debian.net
+allowed_distributions   = (?!UNRELEASED|.*-security)
