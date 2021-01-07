@@ -1,3 +1,17 @@
+[pdo]
+fqdn = people.debian.org
+method = scp
+login = utkarsh
+incoming = public_html/lts/mupdf/
+#allowed_distributions = (?!UNRELEASED|.*-security)
+
+[extended-lts]
+method = scp
+fqdn = deb.freexian.com
+incoming = /does-not/matter
+login = extended-lts
+allowed_distributions = jessie(|-lts|-security)
+
 [fasttrack]
 fqdn                    = fasttrack.debian.net
 incoming                = /pub/UploadQueue/
