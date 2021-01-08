@@ -1,0 +1,6 @@
+// Tell people how they can help after each package installation
+
+DPkg
+{
+Post-Invoke {"[ ! -e /usr/bin/how-can-i-help ] || /usr/bin/how-can-i-help --apt";};
+};

@@ -1,0 +1,7 @@
+/*
+ * APT configuration file for med-config package
+ */
+
+DPkg {
+	Post-Invoke {"test -f /var/run/med-config.usermenu && if [ -x /usr/sbin/blend-update-usermenus ] ; then /usr/sbin/blend-update-usermenus med ; fi ; rm -f /var/run/med-config.usermenu";};
+}

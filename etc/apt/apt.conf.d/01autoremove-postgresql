@@ -1,0 +1,17 @@
+// NO NOT EDIT!
+// File maintained by /usr/share/postgresql-common/pg_updateaptconfig.
+//
+// Mark all PostgreSQL packages as NeverAutoRemove for which PostgreSQL
+// clusters exist. This is especially important when the "postgresql" meta
+// package changes its dependencies to a new version, which might otherwise
+// trigger the old postgresql-NN package to be automatically removed, rendering
+// the old database cluster inaccessible.
+
+APT
+{
+  NeverAutoRemove
+  {
+    "^postgresql.*-12";
+    "^postgresql.*-13";
+  };
+};
