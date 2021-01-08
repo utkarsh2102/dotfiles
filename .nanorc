@@ -1,5 +1,5 @@
-set tabsize 4
+set tabsize 2
 set tabstospaces
-#set autoindent
+set autoindent
 set constantshow
-#set fill 80
+set fill 80
