@@ -1,16 +1,10 @@
-# For unstable \o/
-deb http://deb.debian.org/debian/ unstable main contrib
-deb-src http://deb.debian.org/debian/ unstable main contrib
+deb https://deb.debian.org/debian/ unstable main contrib non-free
+deb-src https://deb.debian.org/debian/ unstable main contrib non-free
 
-# deb http://ftp.harukasan.org/debian/ unstable main contrib
-# deb-src http://ftp.harukasan.org/debian/ unstable main contrib
+# for experimental shizz
+# deb http://deb.debian.org/debian/ experimental main contrib non-free
+# deb-src http://deb.debian.org/debian/ experimental main contrib non-free
 
-
-# Backport stuff for fasttrack and bleh :|
-# deb http://deb.debian.org/debian buster-backports main contrib
-# deb http://fasttrack.debian.net/debian/ buster-fasttrack main contrib
-
-
-# Experimental things for testing weird stuff :|
-# deb http://deb.debian.org/debian experimental main contrib
-# deb-src http://deb.debian.org/debian/ experimental main contrib
+# for backporting to buster and blah blah
+# deb http://deb.debian.org/debian/ buster main contrib non-free
+# deb http://deb.debian.org/debian/ buster-backports main contrib non-free
