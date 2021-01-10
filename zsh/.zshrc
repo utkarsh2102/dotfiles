@@ -2,13 +2,14 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/utkarsh2102/.oh-my-zsh"
+export ZSH="/home/utkarsh/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
-# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+# ZSH_THEME="robbyrussell"
+ZSH_THEME="ys"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -26,8 +27,14 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to disable bi-weekly auto-update checks.
 # DISABLE_AUTO_UPDATE="true"
 
+# Uncomment the following line to automatically update without prompting.
+# DISABLE_UPDATE_PROMPT="true"
+
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
+
+# Uncomment the following line if pasting URLs and other text is messed up.
+# DISABLE_MAGIC_FUNCTIONS=true
 
 # Uncomment the following line to disable colors in ls.
 # DISABLE_LS_COLORS="true"
@@ -41,8 +48,6 @@ ZSH_THEME="robbyrussell"
 # Uncomment the following line to display red dots whilst waiting for completion.
 # COMPLETION_WAITING_DOTS="true"
 
-# This makes me go crazy.
-alias loomio='firefox loomio.org'
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
@@ -64,9 +69,7 @@ alias loomio='firefox loomio.org'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(
-  git
-)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -87,9 +90,6 @@ source $ZSH/oh-my-zsh.sh
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# ssh
-# export SSH_KEY_PATH="~/.ssh/rsa_id"
-
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
@@ -98,26 +98,40 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /home/utkarsh2102/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-# Because I want it to be :)
-alias please='sudo'
-alias bye='exit'
-alias o/='exit'
-
-export DEBEMAIL='utkarsh@debian.org'
+# Debian development stuff.
+export DEBEMAIL=utkarsh@debian.org
 export DEBFULLNAME='Utkarsh Gupta'
 alias lintian='lintian -iIEcv --pedantic --color auto'
-alias git-import-dsc='git-import-dsc --author-is-committer --pristine-tar'
-alias clean='fakeroot debian/rules clean'
 
-export PATH=$PATH:/home/utkarsh2102/.local/bin/
+# Nano is an underestimated beast.
+export EDITOR='nano'
+export VISUAL='nano'
 
-PATH="/home/utkarsh2102/perl5/bin${PATH:+:${PATH}}"; export PATH;
-PERL5LIB="/home/utkarsh2102/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
-PERL_LOCAL_LIB_ROOT="/home/utkarsh2102/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
-PERL_MB_OPT="--install_base \"/home/utkarsh2102/perl5\""; export PERL_MB_OPT;
-PERL_MM_OPT="INSTALL_BASE=/home/utkarsh2102/perl5"; export PERL_MM_OPT;
+# Some aliases that makes my life easy.
+alias qwe='dpkg-buildpackage -uc -us'
+alias dc='debclean --cleandebs'
+alias rs='ruby-standalone'
+alias node='nodejs'
+#alias yarn='yarnpkg'
 
-export GOPATH=$HOME/go
+# Export /sbin. Duh?
+# export PATH=$PATH:/sbin
+
+# Checkout cheat.sh, it's fantastic.
+function cheat() {
+  curl http://cht.sh/$1
+}
+
+# Make a directory and cd into it.
+function mkcd () {
+  mkdir "$1" && cd "$1";
+}
+
+alias mkdir='mkcd'
+
+# Auto-completion for kubectl.
+# [[ /usr/bin/kubectl ]] && source <(kubectl completion zsh)
+
+# opam configuration
+test -r /home/utkarsh/.opam/opam-init/init.zsh && . /home/utkarsh/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
